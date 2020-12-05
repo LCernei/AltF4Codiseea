@@ -7,7 +7,6 @@ import static com.company.ProcessingText.*;
 public class Main {
 
     public static void main(String[] args) {
-
         String text = "LXXXIV: HPR\n" +
                 "LVIII: HUQ\n" +
                 "XXXII: YYS\n" +
