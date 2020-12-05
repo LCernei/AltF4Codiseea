@@ -44,9 +44,9 @@ public class ProcessingText {
             }
             if (num<previousnum)
             {decimalNum= decimalNum-num;}
-            else
+            else{
                 decimalNum= decimalNum+num;
-
+            }
         }
         return decimalNum;
     }
